@@ -1,0 +1,25 @@
+<Configuration>
+<Add SourcePath="D:\Zona Downloads\Office.2016-2021.b2204.x86-x64.ru-en\Office.2016-2021.b2204.x86-x64.ru-en\" OfficeClientEdition="64" Channel="Current" Version="16.0.15128.20264">
+    <Product ID="ProPlus2021Volume">
+      <Language ID="ru-RU" />
+    </Product>
+    <Product ID="ProjectPro2021Volume">
+      <Language ID="ru-RU" />
+    </Product>
+    <Product ID="VisioPro2021Volume">
+      <Language ID="ru-RU" />
+    </Product>
+</Add>
+<Display Level="Full" AcceptEULA="TRUE" />
+<Updates Enabled="TRUE" Channel="Current" />
+</Configuration>
+<!--  OInstallSetting Branch=1  -->
+<!--  OInstallSetting Office=0  -->
+<!--  OInstallSetting Arch=0  -->
+<!--  OInstallSetting Redact=2  -->
+<!--  OInstallSetting Product=0  -->
+<!--  OInstallSetting UseODT=0  -->
+<!--  OInstallSetting OnlineKMS=1  -->
+<!--  OInstallSetting PATH=D:\Zona Downloads\Office.2016-2021.b2204.x86-x64.ru-en\Office.2016-2021.b2204.x86-x64.ru-en\  -->
+<!--  OInstallSetting Lang0=1  -->
+<!--  OInstallSetting Lang43=1  -->
